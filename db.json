@@ -1,0 +1,14 @@
+{
+    "transactions" : [
+        {
+            "trans_id" : "TR001",
+            "total" : 20000
+        }
+    ],
+    "customers" : [
+        {
+            "user_id" : "US001",
+            "name" : "Krisna" 
+        }
+    ]
+}
